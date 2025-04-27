@@ -20,7 +20,6 @@ What's included in the template?
 
 I'm open to hearing your feedback about the template and what you'd like to see in future iterations.
 
-If you're ready to learn more, check out [**Pragmatic Clean Architecture**](https://www.milanjovanovic.tech/pragmatic-clean-architecture?utm_source=ca-template):
 
 - Domain-Driven Design
 - Role-based authorization
